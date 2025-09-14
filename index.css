@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f40661;
+  margin: 20px;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+.card {
+  background-color: #2ccf8b;
+  padding: 20px;
+  margin: 15px 0;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(240, 240, 8, 0.875);
+}
+
+h2 {
+  color: #007bff;
+}
+
+p {
+  font-size: 16px;
+  color: #555;
+}
